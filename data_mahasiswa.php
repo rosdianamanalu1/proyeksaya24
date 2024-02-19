@@ -4,5 +4,6 @@
   echo "Nama Lengkap : Rosdiana";
   echo " Kelas: 22 MI-A";
  echo " Tahun akademik:2023/2024";
+ echo " Semester: Genap";
   ?>1
   
